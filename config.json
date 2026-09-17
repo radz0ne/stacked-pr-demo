@@ -1,3 +1,4 @@
-{ "featureflag" : "new-widget",
-"enabled" : true
+{
+"featureFlag": "new-widget-v2",
+"enabled": true
 }
